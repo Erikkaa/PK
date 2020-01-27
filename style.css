@@ -1,0 +1,268 @@
+.body, html {
+  background: navy;
+}
+#myContainer
+{
+  width: 500px;
+  height: 400px;
+  position: relative;
+  top:50px;
+  left: 120px;
+  background: navy;
+  border: 25px solid white;
+}
+#myAnimation1
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  background-color: white;
+}
+#myAnimation2
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 50px;
+  background-color: white;
+}
+#myAnimation3
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 100px;
+  background-color: white;
+}
+#myAnimation4
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 50px;
+  background-color: white;
+}
+#myAnimation5
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 100px;
+  background-color: white;
+}
+#myAnimation6
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 150px;
+  background-color: white;
+}
+#myAnimation7
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 150px;
+  background-color: white;
+}
+#myAnimation8
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  background-color: white;
+}
+#myAnimation9
+{
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 50px;
+  background-color: white;
+}
+#myAnimation10
+{
+  width: 51px;
+  height: 50px;
+  position: absolute;
+  top: 50px;
+  background-color: white;
+}
+#myAnimation11
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 200px;
+  background-color: white;
+}
+#myAnimation12
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 250px;
+  background-color: white;
+}
+#myAnimation13
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 300px;
+  background-color: white;
+}
+#myAnimation14
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom: 0px;
+  background-color: white;
+}
+#myAnimation15
+{
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  bottom: 0px;
+  left: 50px;
+  background-color: white;
+}
+#myAnimation16
+{
+  width: 50px;
+  height: 300px;
+  position: absolute;
+  top: 50px;
+  right: 0px;
+  background-color: white;
+}
+#myAnimation17
+{
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  right: 150px;
+  background-color: white;
+}
+#myAnimation18
+{
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  bottom: 0px;
+  right: 150px;
+  background-color: white;
+}
+#myAnimation19
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  right: 100px;
+  background-color: white;
+}
+#myAnimation20
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom: 0px;
+  right: 100px;
+  background-color: white;
+}
+#myAnimation21
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  right: 50px;
+  background-color: white;
+}
+#myAnimation22
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom: 0px;
+  right: 50px;
+  background-color: white;
+}
+#myAnimation23
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: white;
+}
+#myAnimation24
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: white;
+}
+#myAnimation25
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: white;
+}
+#myAnimation26
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  right: 75px;
+  background-color: white;
+}
+#myAnimation27
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  right: 125px;
+  background-color: white;
+}
+#myAnimation28
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  left: 200px;
+  background-color: white;
+}
+#myAnimation29
+{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 350px;
+  right: 250px;
+  background-color: white;
+}
+#text
+{
+  position: absolute;
+  left: 650px;
+  text-align: center;
+  font-family: fantasy;
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: 35px;
+}
